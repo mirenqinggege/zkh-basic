@@ -8,6 +8,24 @@
     <artifactId>zkh-basic</artifactId>
     <version>1.0</version>
 
+    <url>https://github.com/mirenqinggege/zkh-basic</url>
+
+    <licenses>
+        <license>
+            <name>The Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <id>zkh</id>
+            <name>zkh</name>
+            <email>zkh1650697374@gmail.com</email>
+        </developer>
+    </developers>
+
     <properties>
         <maven.compiler.source>22</maven.compiler.source>
         <maven.compiler.target>22</maven.compiler.target>
